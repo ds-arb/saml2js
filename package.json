@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aplo/saml2js.git"
+    "url": "https://github.com/ds-arb/saml2js"
   },
   "keywords": [
     "SAML",
@@ -13,17 +13,17 @@
     "parser",
     "authentication"
   ],
-  "author": "Bill Patrianakos <bill+opensource@aploquote.com>",
+  "author": "Delivery Solutions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Aplo/saml2js/issues"
+    "url": "https://github.com/ds-arb/saml2js/issues"
   },
   "dependencies": {
     "lodash": "^4.17.11",
     "xmldom": "^0.4.0",
     "xpath": "^0.0.32"
   },
-  "homepage": "https://github.com/Aplo/saml2js",
+  "homepage": "https://github.com/ds-arb/saml2js",
   "devDependencies": {
     "chai": "^4.2.0",
     "grunt": "^1.3.0",
