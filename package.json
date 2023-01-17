@@ -36,5 +36,11 @@
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "np": {
+    "yarn": false
   }
 }
